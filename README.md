@@ -3,7 +3,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alexsander9410@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-sander-campos-lopes-42938521b/)
 
-[![Instagram]([[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-sander-campos-lopes-](https://www.instagram.com/_alequisi?igsh=MXc5aG9iZzRnODE0bQ==)](https://www.instagram.com/_alequisi?igsh=MXc5aG9iZzRnODE0bQ==))
+[![Instagram]((https://www.instagram.com/_alequisi?igsh=MXc5aG9iZzRnODE0bQ==))
 
 
 ## Habilidades
