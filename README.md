@@ -19,7 +19,7 @@
 ## Meus Principais Projetos
 
 
-[![Repo JS 1](https://github-readme-stats.vercel.app/api/pin/?username=allekx&repo=dio-projeto-nivel-heroi&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/allekx/dio-projeto-nivel-heroi)
+[![Repo JS 1](https://github-readme-stats.vercel.app/api/pin/?username=allekx&repo=School-Project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/allekx/School-Project)
 
 
 ---
