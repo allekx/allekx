@@ -23,6 +23,7 @@
 
 [![Repo JS 1](https://github-readme-stats.vercel.app/api/pin/?username=allekx&repo=Portfolio-AlexSander&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/allekx/Portf-lio-Alex-Sander)
 
+
 ---
 
 <div align="center">
