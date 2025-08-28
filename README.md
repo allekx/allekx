@@ -11,8 +11,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
 
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allekx&bg_color=000&border_color=30A3DC&title_color=blue&text_color=FFF&hide_title=true)
+
 
 
 ## Meus Principais Projetos
@@ -20,8 +19,6 @@
 
 
 [![Repo JS 1](https://github-readme-stats.vercel.app/api/pin/?username=allekx&repo=School-Project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/allekx/School-Project)
-
-[![Repo JS 1](https://github-readme-stats.vercel.app/api/pin/?username=allekx&repo=Portfolio-AlexSander&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/allekx/Portf-lio-Alex-Sander)
 
 
 ---
